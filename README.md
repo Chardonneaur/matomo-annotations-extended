@@ -29,7 +29,7 @@ A Matomo plugin that provides an enhanced UI for managing annotations across all
 
 ```bash
 cd /path/to/matomo/plugins
-git clone https://github.com/yourusername/matomo-annotations-extended.git AnnotationsExtended
+git clone https://github.com/Chardonneaur/matomo-annotations-extended.git AnnotationsExtended
 ```
 
 Then activate the plugin in Matomo's Administration > Plugins.
@@ -63,4 +63,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-If you encounter any issues, please [open an issue](https://github.com/yourusername/matomo-annotations-extended/issues) on GitHub.
+If you encounter any issues, please [open an issue](https://github.com/Chardonneaur/matomo-annotations-extended/issues) on GitHub.
